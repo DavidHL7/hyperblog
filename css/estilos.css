@@ -2,7 +2,7 @@ body
 {
     text-align: center;
     font-family: "Arial";
-    color: green;
+    color: brown;
     margin: 0;
     padding: 0;
     font-size: 16px;
@@ -23,7 +23,7 @@ body
 
 #cabecera
 {
-    background: blue;
+    background: brown;
     color: white;
     font-weight: bold;
     margin: 0;
